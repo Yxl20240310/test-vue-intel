@@ -1,4 +1,4 @@
-# 简介
+# 说明
 此模板旨在帮助您使用 Vue 3和 TypeScript 进行开发。该模板使用 Vue 3 `<script setup>` SFCs，查看 [脚本设置文档](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) 了解更多信息。
 # 开始
 * 单击 **运行** 按钮启动程序。
@@ -14,4 +14,3 @@
 - [Vite](https://vitejs.dev/) -了解VITE功能。
 # 帮助
 如果你需要帮助，你可以查看[文档](https://docs.marscode.cn/)，或向我们提供[反馈](https://juejin.cn/pin/club/7359094304150650889?utm_source=doc&utm_medium=marscode)。
-
